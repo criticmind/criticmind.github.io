@@ -10,8 +10,12 @@ on:
       - master
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build-and-deploy:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
