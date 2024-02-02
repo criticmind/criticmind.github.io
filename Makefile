@@ -4,7 +4,7 @@
 .PHONY: build
 build: .GODEPS ## Build application
 	hugo --minify
-	echo "mediadrugs.com" > public/CNAME
+	echo "criticmind.ai" > public/CNAME
 
 .PHONY: run
 run: ## Run application
