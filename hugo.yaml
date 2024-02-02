@@ -1,0 +1,51 @@
+baseURL: 'https://criticmind.ai'
+title: 'CriticMind'
+languageCode: en-us
+DefaultContentLanguage: en
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+paginate: 9
+enableInlineShortcodes: true
+
+params:
+  author:
+  # author_image: /images/defaults/author.jpg
+  og_image: /images/main/featured.jpg
+  logo: /logo.svg
+  moto: "Secure Minds, Empowered Lives: Navigating the Digital World with Confidence"
+  description: "Revolutionizing mental well-being in the digital realm by providing cutting-edge solutions for a secure, healthy mind."
+  google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
+  cta:
+    text: Book a meeting
+    url: 
+  footer:
+    # social_url: https://twitter.com/demdxx
+    # social_username: '@demdxx'
+    year: 2024
+  contact_email: contact@criticmind.ai
+  menu:
+    -
+      - name: Home
+        url: /
+      - name: About
+        url: /about
+    -
+      - name: Contact
+        url: /contact
+
+
+taxonomies:
+  category: Categories
+  tag: Tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.110.0"
