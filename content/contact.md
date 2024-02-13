@@ -12,7 +12,7 @@ We're here to help you navigate the complexities of the digital world with confi
 
 #### Contact Us Today
 
-For inquiries about our SEO analysis, web service vulnerability assessments, or our logic-based mobile games, please use the form below or reach out directly via email. Our dedicated team is committed to assisting you with personalized solutions tailored to your specific needs.
+For inquiries about our SEO analysis, web service vulnerability assessments, or our logic-based mobile games, please use the contacts below or reach out directly via email.
 
 #### Stay Connected
 
