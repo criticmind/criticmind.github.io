@@ -19,7 +19,12 @@
   </div>
   {{else}}
   <div class="font-normal text-sm">
-    Copyright &#169; <span class="font-extrabold hover:underline hover:text-black-600">CriticMind</span> {{ .Site.Params.footer.year }}
+    Copyright &#169; <span class="font-extrabold hover:underline hover:text-black-600">{{
+      .Site.Params.footer.copyright.text
+    }}</span>
+    with ❤️
+    <span class="font-extrabold hover:underline hover:text-black-600"></span>
+    {{ .Site.Params.footer.year }}
   </div>
   {{end}}
 </div>

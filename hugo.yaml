@@ -14,8 +14,8 @@ params:
   # author_image: /images/defaults/author.jpg
   og_image: /images/main/featured.jpg
   logo: /logo.svg
-  moto: "Secure Minds, Empowered Lives: Navigating the Digital World with Confidence"
-  description: "Revolutionizing mental well-being in the digital realm by providing cutting-edge solutions for a secure, healthy mind."
+  moto: "Empowering Digital Excellence: Simplifying Online Success"
+  description: "Elevating online presence and digital security for businesses and developers."
   google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
     text: Book a meeting
@@ -24,6 +24,9 @@ params:
     # social_url: https://twitter.com/demdxx
     # social_username: '@demdxx'
     year: 2024
+    copyright:
+      text: "CriticMind, Inc."
+      url: "https://criticmind.ai"
   contact_email: contact@criticmind.ai
   menu:
     -
@@ -34,6 +37,8 @@ params:
     -
       - name: Contact
         url: /contact
+  social_networks:
+    linkedin: https://www.linkedin.com/company/criticmind
 
 
 taxonomies:
