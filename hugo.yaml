@@ -16,7 +16,7 @@ params:
   logo: /logo.svg
   moto: "Empowering Digital Excellence: Simplifying Online Success"
   description: "Elevating online presence and digital security for businesses and developers."
-  google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
+  google_analytics_id: 'G-6EQ9EPV4H9' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
     text: Book a meeting
     url: 
