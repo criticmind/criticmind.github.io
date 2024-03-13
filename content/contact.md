@@ -27,6 +27,12 @@ Criticmind, Inc. believes in the power of communication. Join our community on s
       <a href="mailto:contact@criticmind.ai">contact@criticmind.ai</a>
     </div>
     <div>
+      <label class="block text-sm font-semibold leading-6 text-white">Phone</label>
+    </div>
+    <div class="sm:col-span-2">
+      <a href="tel:+18482297556">+1 848 229 7556</a>
+    </div>
+    <div>
       <label class="block text-sm font-semibold leading-6 text-white">Linkedin</label>
     </div>
     <div class="sm:col-span-2">
